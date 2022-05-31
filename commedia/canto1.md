@@ -14,10 +14,7 @@ e viva, e il suon di lei. Così tra questa
 immensità[3] s'annega il pensier mio:    
 e il naufragar m'è dolce in questo mare.    
 =======
-Provando a imparar a usar lo Git    
-mi ritrovai per una selva oscura,    
-ché la diritta via era smarrita.    
->>>>>>> exam
+
     
 Ahi quanto a dir qual era è cosa dura    
 esta selva selvaggia e aspra e forte    
